@@ -1,7 +1,7 @@
 # Ex03 Time Table
 # Date: 14/11/2024
 # AIM
-To write a html webpage page to display your slot timetable.
+To write a html webpage page to display your slot timetable. 
 
 # ALGORITHM
 ## STEP 1
